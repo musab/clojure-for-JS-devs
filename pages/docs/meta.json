@@ -2,5 +2,7 @@
   "get-started": "Get Started",
   "comments": "Comments",
   "printing": "Printing",
-  "variables": "Variables"
+  "variables": "Variables",
+  "interpolation": "Interpolation",
+  "if-else": "If/Else"
 }
